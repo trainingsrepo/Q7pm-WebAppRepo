@@ -51,6 +51,7 @@ public class ProgramStructure {
             System.out.println("New Checking Account Balance: " + moneyFormat.format(checkingBalance));
         }
     }
+	#additonal feature code
 	#end of feature101 code
 
 }
